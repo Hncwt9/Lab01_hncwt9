@@ -8,7 +8,7 @@ int main() {
 	cout << "Enter how many miles you are traveling " << endl;
 	cin >> distance;
 
-	cout << "How fast are you travling in mph? " << endl;
+	cout << "How fast are you traveling in mph? " << endl;
 	cin >> velocity;
 
     // Calculate the time it takes here.

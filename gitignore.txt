@@ -1,2 +1,0 @@
-# Exclude VS Debug and other files
-/Debug/*
