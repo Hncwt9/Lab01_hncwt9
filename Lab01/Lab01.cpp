@@ -16,5 +16,7 @@ int main() {
 
 	cout << endl;
 	cout << "At " << velocity << " mph it will take " << time << " hours to travel " << distance << " miles." << endl;
+	
+	return 0;
 
 }
